@@ -2,7 +2,7 @@
 
 An Album Collection List app to manage albums.
 
-- Deployment Link: https://albumlistreactapp.netlify.app/
+- Deployment Link: https://album-collection-rohit.netlify.app/
 
 ## Features
 
